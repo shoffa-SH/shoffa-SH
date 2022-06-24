@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>SHOFFA </title>
+<title>Shoffa Hadi Assyaro </title>
 </head>
 <body>
 <h1 align="center">BIODATA DIRI</h1>
