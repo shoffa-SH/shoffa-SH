@@ -34,9 +34,6 @@
 <td>SMK TI GARUDA NUSANTARA CIMAHI</td>
 </tr>
 <tr>
-<td>Alamat</td>
-<td> RT 01 RW11 Jl.Dirawinata DS.Tanimulya KEC.Ngamprah KAB.Bandung Barat</td>
-</tr>
 <tr>
 <td>Pekerjaan</td>
 <td>Web designer/web developer</td>
